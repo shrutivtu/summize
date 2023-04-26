@@ -1,4 +1,4 @@
-# summize
+# Summize
 
 An app where we can summarize our articles. While building the application I performed the following operations-
 
